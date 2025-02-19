@@ -1,0 +1,1 @@
+require("ts-colors").load()
